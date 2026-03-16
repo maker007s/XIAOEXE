@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "1",
+    "password": "1",
+    "expiry": "2090-03-16",
+    "subscription": "PREMIUM PANEL",
+    "hwid": ""
+  }
+]
