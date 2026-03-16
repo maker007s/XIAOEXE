@@ -1,0 +1,23 @@
+[
+  {
+    "username": "fahad",
+    "password": "1",
+    "hwid": "2B9ABC10DF3A570E66DB4D32A246A005",
+    "expiry": "2050-12-30",
+    "subscription": "PREMIUM PANEL"
+  },
+  {
+    "username": "Rahim",
+    "password": "1",
+    "expiry": "2026-04-13",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "49B6E80D5C13D535BCF5581195D72439"
+  },
+  {
+    "username": "rahul",
+    "password": "1",
+    "expiry": "2026-04-14",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "6CB6C0B5861B7FF4AED397EC5FEED44E"
+  }
+]
