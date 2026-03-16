@@ -5,5 +5,12 @@
     "expiry": "2027-03-16",
     "subscription": "AIMBOT PANEL",
     "hwid": ""
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "expiry": "2026-03-16",
+    "subscription": "AIMBOT PYTHON",
+    "hwid": ""
   }
 ]
