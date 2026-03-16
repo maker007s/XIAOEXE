@@ -33,5 +33,12 @@
     "expiry": "2090-03-16",
     "subscription": "PREMIUM PANEL",
     "hwid": "6CB6C0B5861B7FF4AED397EC5FEED44E"
+  },
+  {
+    "username": "sirajul",
+    "password": "0",
+    "expiry": "2090-03-16",
+    "subscription": "STREAMER PANEL",
+    "hwid": ""
   }
 ]
