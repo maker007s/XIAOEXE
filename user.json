@@ -12,5 +12,12 @@
     "expiry": "2026-04-02",
     "subscription": "PREMIUM PANEL",
     "hwid": ""
+  },
+  {
+    "username": "trg",
+    "password": "trg",
+    "expiry": "2090-03-16",
+    "subscription": "PREMIUM PANEL",
+    "hwid": ""
   }
 ]
