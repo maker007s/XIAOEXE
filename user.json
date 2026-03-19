@@ -68,5 +68,12 @@
     "expiry": "2090-03-19",
     "subscription": "AIMBOT PANEL",
     "hwid": "FE4AC89C09006BB8BBACCB8E9C421268"
+  },
+  {
+    "username": "2",
+    "password": "2",
+    "expiry": "2026-03-19",
+    "subscription": "STREAMER PANEL",
+    "hwid": ""
   }
 ]
