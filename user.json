@@ -61,5 +61,12 @@
     "expiry": "2026-05-19",
     "subscription": "STREAMER PANEL",
     "hwid": "D41D8CD98F00B204E9800998ECF8427E"
+  },
+  {
+    "username": "xxrr",
+    "password": "40",
+    "expiry": "2026-03-31",
+    "subscription": "PREMIUM PANEL",
+    "hwid": ""
   }
 ]
