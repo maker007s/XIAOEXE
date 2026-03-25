@@ -110,5 +110,13 @@
     "subscription": "FREEZE",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "4",
+    "password": "4",
+    "expiry": "2090-03-25",
+    "subscription": "FREEZE",
+    "hwid": "",
+    "frozen": false
   }
 ]
