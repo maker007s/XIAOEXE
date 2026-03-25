@@ -13,7 +13,7 @@
     "expiry": "2090-03-25",
     "subscription": "PREMIUM PANEL",
     "hwid": "",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "max",
