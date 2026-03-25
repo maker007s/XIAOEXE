@@ -94,5 +94,13 @@
     "subscription": "CHAMS MENU",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "maroup",
+    "password": "0",
+    "expiry": "2026-05-20",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
