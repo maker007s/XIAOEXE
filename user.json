@@ -157,6 +157,6 @@
     "expiry": "2030-03-25",
     "subscription": "FREEZE",
     "hwid": "8D3A6E579FB92D34092FD1339DC1AE21",
-    "frozen": true
+    "frozen": false
   }
 ]
