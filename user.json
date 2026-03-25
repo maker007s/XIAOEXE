@@ -150,13 +150,5 @@
     "subscription": "STREAMER PANEL",
     "hwid": "4324955B8180283C4A38A271603BDC43",
     "frozen": false
-  },
-  {
-    "username": "9",
-    "password": "9",
-    "expiry": "2026-05-14",
-    "subscription": "FREEZE AND TELEPORT",
-    "hwid": "",
-    "frozen": false
   }
 ]
