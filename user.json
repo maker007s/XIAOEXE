@@ -32,6 +32,14 @@
     "frozen": false
   },
   {
+    "username": "1",
+    "password": "1",
+    "expiry": "2026-05-19",
+    "subscription": "STREAMER PANEL",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false
+  },
+  {
     "username": "mitul",
     "password": "42",
     "expiry": "2026-03-26",
@@ -45,6 +53,22 @@
     "expiry": "2090-03-19",
     "subscription": "AIMBOT PANEL",
     "hwid": "FE4AC89C09006BB8BBACCB8E9C421268",
+    "frozen": false
+  },
+  {
+    "username": "2",
+    "password": "2",
+    "expiry": "2028-03-28",
+    "subscription": "STREAMER PANEL",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false
+  },
+  {
+    "username": "0",
+    "password": "0",
+    "expiry": "2027-03-20",
+    "subscription": "STREAMER PANEL",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
     "frozen": false
   },
   {
@@ -88,6 +112,14 @@
     "frozen": false
   },
   {
+    "username": "3",
+    "password": "3",
+    "expiry": "2026-03-29",
+    "subscription": "STREAMER PANEL",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false
+  },
+  {
     "username": "dip",
     "password": "0",
     "expiry": "2026-03-30",
@@ -96,11 +128,35 @@
     "frozen": false
   },
   {
+    "username": "4",
+    "password": "4",
+    "expiry": "2026-03-26",
+    "subscription": "STREAMER PANEL",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false
+  },
+  {
     "username": "sabbir",
     "password": "0",
     "expiry": "2026-05-27",
     "subscription": "AIMBOT PANEL",
     "hwid": "CC97FF27726B7A351E5535584C95D752",
+    "frozen": false
+  },
+  {
+    "username": "5",
+    "password": "5",
+    "expiry": "2026-03-27",
+    "subscription": "STREAMER PANEL",
+    "hwid": "4324955B8180283C4A38A271603BDC43",
+    "frozen": false
+  },
+  {
+    "username": "22",
+    "password": "22",
+    "expiry": "2030-03-25",
+    "subscription": "FREEZE",
+    "hwid": "",
     "frozen": false
   }
 ]
