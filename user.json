@@ -109,6 +109,6 @@
     "expiry": "2027-03-25",
     "subscription": "PREMIUM PANEL",
     "hwid": "",
-    "frozen": true
+    "frozen": false
   }
 ]
