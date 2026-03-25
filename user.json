@@ -102,5 +102,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "max",
+    "password": "0",
+    "expiry": "2026-04-02",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
