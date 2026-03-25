@@ -85,7 +85,7 @@
     "expiry": "2027-03-22",
     "subscription": "AIMBOT PANEL",
     "hwid": "6CB6C0B5861B7FF4AED397EC5FEED44E",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "000",
@@ -149,6 +149,14 @@
     "expiry": "2026-03-27",
     "subscription": "STREAMER PANEL",
     "hwid": "4324955B8180283C4A38A271603BDC43",
+    "frozen": false
+  },
+  {
+    "username": "9",
+    "password": "9",
+    "expiry": "2026-03-25",
+    "subscription": "FREEZE AND TELEPORT",
+    "hwid": "",
     "frozen": false
   }
 ]
