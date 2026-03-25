@@ -110,5 +110,13 @@
     "subscription": "FREEZE",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "6",
+    "password": "6",
+    "expiry": "2027-03-25",
+    "subscription": "CHAMS MENU",
+    "hwid": "",
+    "frozen": false
   }
 ]
