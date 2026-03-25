@@ -4,7 +4,7 @@
     "password": "0",
     "expiry": "2105-06-14",
     "subscription": "PREMIUM PANEL",
-    "hwid": "6FE3B0C34A7381DF92E5B850A35064F4",
+    "hwid": "",
     "frozen": false
   },
   {
@@ -108,14 +108,6 @@
     "password": "1",
     "expiry": "2028-03-25",
     "subscription": "FREEZE",
-    "hwid": "",
-    "frozen": false
-  },
-  {
-    "username": "0",
-    "password": "0",
-    "expiry": "2027-03-25",
-    "subscription": "PREMIUM PANEL",
     "hwid": "",
     "frozen": false
   }
