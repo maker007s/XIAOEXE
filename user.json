@@ -94,5 +94,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "xxrr",
+    "password": "40",
+    "expiry": "2090-03-25",
+    "subscription": "CHAMS MENU",
+    "hwid": "",
+    "frozen": false
   }
 ]
