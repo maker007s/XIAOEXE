@@ -110,5 +110,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "Sohan11",
+    "password": "111",
+    "expiry": "2025-03-25",
+    "subscription": "FREEZE",
+    "hwid": "",
+    "frozen": false
   }
 ]
