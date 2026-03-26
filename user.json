@@ -126,5 +126,13 @@
     "subscription": "CHAMS MENU",
     "hwid": "6CB6C0B5861B7FF4AED397EC5FEED44E",
     "frozen": false
+  },
+  {
+    "username": "12",
+    "password": "12",
+    "expiry": "2026-05-01",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
