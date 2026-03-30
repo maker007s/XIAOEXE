@@ -181,6 +181,6 @@
     "expiry": "2026-03-30",
     "subscription": "PREMIUM PANEL",
     "hwid": "",
-    "frozen": false
+    "frozen": true
   }
 ]
