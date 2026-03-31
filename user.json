@@ -90,7 +90,7 @@
   {
     "username": "1",
     "password": "1",
-    "expiry": "2090-03-26",
+    "expiry": "2090-04-30",
     "subscription": "FREEZE",
     "hwid": "D41D8CD98F00B204E9800998ECF8427E",
     "frozen": false
