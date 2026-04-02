@@ -186,7 +186,7 @@
   {
     "username": "sayeed",
     "password": "0",
-    "expiry": "2026-05-03",
+    "expiry": "2026-05-05",
     "subscription": "AIMBOT PANEL",
     "hwid": "7D4B47A7302792CD3E43F15B1C0BEDD5",
     "frozen": false
@@ -196,7 +196,7 @@
     "password": "0",
     "expiry": "2026-04-05",
     "subscription": "PREMIUM PANEL",
-    "hwid": "936CC2A421D06CBAE3C24FCA72EAE150",
+    "hwid": "",
     "frozen": false
   }
 ]
