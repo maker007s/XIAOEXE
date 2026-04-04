@@ -214,5 +214,13 @@
     "subscription": "AIMBOT PANEL",
     "hwid": "9FCEBBC451D0C13ABF15A9794EAB63AF",
     "frozen": false
+  },
+  {
+    "username": "tanvir",
+    "password": "0",
+    "expiry": "2026-04-03",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
