@@ -244,15 +244,15 @@
     "password": "0",
     "expiry": "2026-04-09",
     "subscription": "PREMIUM PANEL",
-    "hwid": "7803A39485225530175B2639D7440975",
+    "hwid": "",
     "frozen": false
   },
   {
     "username": "ayan",
     "password": "0",
-    "expiry": "2026-04-09",
+    "expiry": "+134342-09-17",
     "subscription": "AIMBOT PANEL",
-    "hwid": "C905F9CB9ADF67CAC964B638424C9702",
+    "hwid": "",
     "frozen": false
   }
 ]
