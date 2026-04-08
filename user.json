@@ -141,7 +141,7 @@
     "expiry": "2027-03-31",
     "subscription": "PREMIUM PANEL",
     "hwid": "404FE1D7D9223BF69F207E6BCFE8444A",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "rahull",
@@ -165,7 +165,7 @@
     "expiry": "2026-05-06",
     "subscription": "AIMBOT PANEL",
     "hwid": "936CC2A421D06CBAE3C24FCA72EAE150",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "aryan",
