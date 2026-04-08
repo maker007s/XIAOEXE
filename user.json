@@ -77,7 +77,7 @@
     "expiry": "2090-03-25",
     "subscription": "FREEZE",
     "hwid": "",
-    "frozen": true
+    "frozen": false
   },
   {
     "username": "sirajul",
