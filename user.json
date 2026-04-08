@@ -93,7 +93,7 @@
     "expiry": "2028-03-27",
     "subscription": "PREMIUM PANEL",
     "hwid": "FE4AC89C09006BB8BBACCB8E9C421268",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "jakkaria",
