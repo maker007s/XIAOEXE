@@ -181,7 +181,7 @@
     "expiry": "2026-04-22",
     "subscription": "PREMIUM PANEL",
     "hwid": "CDD7899B2ACF3BBAD2138FA496C35229",
-    "frozen": true
+    "frozen": false
   },
   {
     "username": "ayan",
