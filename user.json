@@ -109,7 +109,7 @@
     "expiry": "2026-05-29",
     "subscription": "FREEZE",
     "hwid": "5C14BE89B2A83302DDAF21A51A071979",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "dipp",
@@ -117,7 +117,7 @@
     "expiry": "2026-05-02",
     "subscription": "PREMIUM PANEL",
     "hwid": "E29F30CCC21636C2A501705678D579BE",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "sabbir",
