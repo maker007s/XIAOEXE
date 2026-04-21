@@ -270,5 +270,13 @@
     "subscription": "TEST PANEL",
     "hwid": "F9D4BCED85AAA8B0ADFCD2DBB165309F",
     "frozen": false
+  },
+  {
+    "username": "tasinn",
+    "password": "0",
+    "expiry": "2029-04-21",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
