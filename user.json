@@ -270,5 +270,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "E3F8F5C96E686529C9E92A02D74F0024",
     "frozen": false
+  },
+  {
+    "username": "Nayem",
+    "password": "0",
+    "expiry": "2090-04-22",
+    "subscription": "TEST PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
