@@ -270,5 +270,13 @@
     "subscription": "TEST PANEL",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "maroup",
+    "password": "0",
+    "expiry": "2026-07-19",
+    "subscription": "TEST PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
