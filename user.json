@@ -144,14 +144,6 @@
     "frozen": false
   },
   {
-    "username": "alok",
-    "password": "0",
-    "expiry": "2026-04-27",
-    "subscription": "PREMIUM PANEL",
-    "hwid": "9E4052767C43A573817C9F9B820EC3DD",
-    "frozen": true
-  },
-  {
     "username": "trg",
     "password": "0",
     "expiry": "2032-01-01",
