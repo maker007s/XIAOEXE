@@ -218,7 +218,7 @@
   {
     "username": "ayan",
     "password": "rar",
-    "expiry": "2026-04-30",
+    "expiry": "2027-04-30",
     "subscription": "PREMIUM PANEL",
     "hwid": "518EBEFF399A03DF0F09683AA52275CC",
     "frozen": false
@@ -236,7 +236,7 @@
     "password": "0",
     "expiry": "2090-04-29",
     "subscription": "PREMIUM PANEL",
-    "hwid": "1BB81D2370CBF3B656D2F813E1704365",
+    "hwid": "",
     "frozen": false
   }
 ]
