@@ -101,7 +101,7 @@
     "expiry": "2026-06-07",
     "subscription": "FREEZE",
     "hwid": "D41D8CD98F00B204E9800998ECF8427E",
-    "frozen": true
+    "frozen": false
   },
   {
     "username": "tahsin",
@@ -109,7 +109,7 @@
     "expiry": "2027-04-08",
     "subscription": "AIMBOT PANEL",
     "hwid": "43E9D71BD9909D31BA9CD52D66F98F74",
-    "frozen": true
+    "frozen": false
   },
   {
     "username": "akikol",
