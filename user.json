@@ -45,7 +45,7 @@
     "expiry": "2090-03-26",
     "subscription": "CHAMS MENU",
     "hwid": "F9D4BCED85AAA8B0ADFCD2DBB165309F",
-    "frozen": true
+    "frozen": false
   },
   {
     "username": "jakkaria",
@@ -85,7 +85,7 @@
     "expiry": "2026-05-06",
     "subscription": "AIMBOT PANEL",
     "hwid": "936CC2A421D06CBAE3C24FCA72EAE150",
-    "frozen": true
+    "frozen": false
   },
   {
     "username": "sabbir",
