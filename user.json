@@ -117,7 +117,7 @@
     "expiry": "2026-05-06",
     "subscription": "AIMBOT PANEL",
     "hwid": "FE4AC89C09006BB8BBACCB8E9C421268",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "max",
