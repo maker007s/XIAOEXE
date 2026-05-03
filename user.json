@@ -45,7 +45,7 @@
     "expiry": "2090-03-26",
     "subscription": "CHAMS MENU",
     "hwid": "F9D4BCED85AAA8B0ADFCD2DBB165309F",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "jakkaria",
@@ -61,7 +61,7 @@
     "expiry": "2026-05-29",
     "subscription": "FREEZE",
     "hwid": "5C14BE89B2A83302DDAF21A51A071979",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "dipp",
