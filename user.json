@@ -262,5 +262,13 @@
     "subscription": "TEST PANEL",
     "hwid": "E3F8F5C96E686529C9E92A02D74F0024",
     "frozen": false
+  },
+  {
+    "username": "sadik",
+    "password": "0",
+    "expiry": "2026-05-03",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
