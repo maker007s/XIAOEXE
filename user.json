@@ -197,7 +197,7 @@
     "expiry": "2090-04-22",
     "subscription": "TEST PANEL",
     "hwid": "404FE1D7D9223BF69F207E6BCFE8444A",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "maroup",
@@ -205,7 +205,7 @@
     "expiry": "2026-07-19",
     "subscription": "TEST PANEL",
     "hwid": "85826D55301DDD8091D6A5EB325CA0CA",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "maroupp",
