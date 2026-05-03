@@ -165,7 +165,7 @@
     "expiry": "2030-04-20",
     "subscription": "TEST PANEL",
     "hwid": "CC97FF27726B7A351E5535584C95D752",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "tasinn",
