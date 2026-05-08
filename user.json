@@ -326,5 +326,13 @@
     "subscription": "TEST PANEL",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "Dd",
+    "password": "Dd",
+    "expiry": "2026-05-29",
+    "subscription": "TEST PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
