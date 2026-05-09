@@ -326,13 +326,5 @@
     "subscription": "TEST PANEL",
     "hwid": "E29F30CCC21636C2A501705678D579BE",
     "frozen": false
-  },
-  {
-    "username": "tanvirr",
-    "password": "0",
-    "expiry": "2026-06-07",
-    "subscription": "TEST PANEL",
-    "hwid": "B96822E16C271EE4037BE527214D81CC",
-    "frozen": false
   }
 ]
