@@ -318,5 +318,13 @@
     "subscription": "TEST PANEL",
     "hwid": "B96822E16C271EE4037BE527214D81CC",
     "frozen": false
+  },
+  {
+    "username": "jonn",
+    "password": "0",
+    "expiry": "2090-05-09",
+    "subscription": "TEST PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
