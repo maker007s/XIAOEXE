@@ -310,5 +310,13 @@
     "subscription": "AIMBOT PANEL",
     "hwid": "9EE035DC98B4246C9BED18A60E863BD6",
     "frozen": false
+  },
+  {
+    "username": "maroup",
+    "password": "0",
+    "expiry": "2090-05-11",
+    "subscription": "TEST PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
