@@ -318,5 +318,13 @@
     "subscription": "FREEZE",
     "hwid": "2BB0C821D1ABC52EC6A13A6FD7816C4F",
     "frozen": false
+  },
+  {
+    "username": "siam",
+    "password": "0",
+    "expiry": "2090-05-11",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
