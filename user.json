@@ -258,7 +258,7 @@
   {
     "username": "masud",
     "password": "0",
-    "expiry": "2026-05-22",
+    "expiry": "2026-06-06",
     "subscription": "AIMBOT PANEL",
     "hwid": "D41D8CD98F00B204E9800998ECF8427E",
     "frozen": false
@@ -292,7 +292,7 @@
     "password": "r",
     "expiry": "2027-05-20",
     "subscription": "AIMBOT PANEL",
-    "hwid": "F9D4BCED85AAA8B0ADFCD2DBB165309F",
+    "hwid": "",
     "frozen": false
   }
 ]
