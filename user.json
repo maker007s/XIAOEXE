@@ -262,5 +262,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "7E5B24AE1CCD24B4D7FE3F18C71C7319",
     "frozen": false
+  },
+  {
+    "username": "c",
+    "password": "c",
+    "expiry": "2090-06-09",
+    "subscription": "CHAMS MENU",
+    "hwid": "",
+    "frozen": false
   }
 ]
