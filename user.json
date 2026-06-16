@@ -172,7 +172,15 @@
     "password": "0",
     "expiry": "2090-06-16",
     "subscription": "PREMIUM PANEL",
-    "hwid": "1BB81D2370CBF3B656D2F813E1704365",
+    "hwid": "",
+    "frozen": false
+  },
+  {
+    "username": "mehedy",
+    "password": "0",
+    "expiry": "2026-06-18",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
     "frozen": false
   }
 ]
