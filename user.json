@@ -182,5 +182,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "9EE035DC98B4246C9BED18A60E863BD6",
     "frozen": false
+  },
+  {
+    "username": "ajijul",
+    "password": "0",
+    "expiry": "2090-06-19",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
