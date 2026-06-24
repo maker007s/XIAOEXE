@@ -13,7 +13,7 @@
     "expiry": "2090-03-25",
     "subscription": "CHAMS MENU",
     "hwid": "C691538EA5D5EACDAA3607984506F7D3",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "sumon",
@@ -21,7 +21,7 @@
     "expiry": "2090-05-03",
     "subscription": "AIMBOT PANEL",
     "hwid": "79D64B3E9FB63FFFC6DBFC4128AA424A",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "mahi",
@@ -29,7 +29,7 @@
     "expiry": "2090-05-08",
     "subscription": "PREMIUM PANEL",
     "hwid": "77E8DDDB8E6490969448ECD83EF05914",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "maroup",
@@ -37,7 +37,7 @@
     "expiry": "2090-01-11",
     "subscription": "AIMBOT PANEL",
     "hwid": "85826D55301DDD8091D6A5EB325CA0CA",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "jonn",
@@ -45,7 +45,7 @@
     "expiry": "2090-05-19",
     "subscription": "PREMIUM PANEL",
     "hwid": "6FE3B0C34A7381DF92E5B850A35064F4",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "sabbirr",
