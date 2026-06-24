@@ -13,7 +13,7 @@
     "expiry": "2090-03-25",
     "subscription": "CHAMS MENU",
     "hwid": "C691538EA5D5EACDAA3607984506F7D3",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "sumon",
