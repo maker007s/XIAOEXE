@@ -61,7 +61,7 @@
     "expiry": "2090-05-26",
     "subscription": "PREMIUM PANEL",
     "hwid": "FE4AC89C09006BB8BBACCB8E9C421268",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "siam",
@@ -69,7 +69,7 @@
     "expiry": "2090-06-05",
     "subscription": "AIMBOT PANEL",
     "hwid": "936CC2A421D06CBAE3C24FCA72EAE150",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "sr",
@@ -77,7 +77,7 @@
     "expiry": "2027-06-05",
     "subscription": "PREMIUM PANEL",
     "hwid": "7E5B24AE1CCD24B4D7FE3F18C71C7319",
-    "frozen": false
+    "frozen": true
   },
   {
     "username": "masud",
