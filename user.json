@@ -142,5 +142,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "85826D55301DDD8091D6A5EB325CA0CA",
     "frozen": false
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "expiry": "2026-06-29",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
