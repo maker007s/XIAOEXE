@@ -150,5 +150,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "",
     "frozen": false
+  },
+  {
+    "username": "1",
+    "password": "12",
+    "expiry": "2090-08-07",
+    "subscription": "INJECTOR",
+    "hwid": "",
+    "frozen": false
   }
 ]
