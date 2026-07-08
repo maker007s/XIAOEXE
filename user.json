@@ -128,14 +128,6 @@
     "frozen": false
   },
   {
-    "username": "rohan",
-    "password": "0",
-    "expiry": "2026-07-30",
-    "subscription": "PREMIUM PANEL",
-    "hwid": "1BB81D2370CBF3B656D2F813E1704365",
-    "frozen": false
-  },
-  {
     "username": "sabbirr",
     "password": "0",
     "expiry": "2060-07-01",
@@ -173,14 +165,6 @@
     "expiry": "2090-07-04",
     "subscription": "AIMBOT PANEL",
     "hwid": "9FCEBBC451D0C13ABF15A9794EAB63AF",
-    "frozen": false
-  },
-  {
-    "username": "Qttw",
-    "password": "Qtq",
-    "expiry": "2026-08-02",
-    "subscription": "��PREMIUM PYTHON ",
-    "hwid": "",
     "frozen": false
   }
 ]
