@@ -142,5 +142,13 @@
     "subscription": "PREMIUM PANEL",
     "hwid": "1BB81D2370CBF3B656D2F813E1704365",
     "frozen": false
+  },
+  {
+    "username": "ayani",
+    "password": "0",
+    "expiry": "2090-08-08",
+    "subscription": "INJECTOR",
+    "hwid": "",
+    "frozen": false
   }
 ]
