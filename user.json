@@ -150,5 +150,13 @@
     "subscription": "INJECTOR",
     "hwid": "C905F9CB9ADF67CAC964B638424C9702",
     "frozen": false
+  },
+  {
+    "username": "w",
+    "password": "w",
+    "expiry": "2026-08-08",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false
   }
 ]
