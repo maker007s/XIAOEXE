@@ -142,13 +142,5 @@
     "subscription": "INJECTOR",
     "hwid": "C905F9CB9ADF67CAC964B638424C9702",
     "frozen": false
-  },
-  {
-    "username": "jon",
-    "password": "0",
-    "expiry": "2026-07-16",
-    "subscription": "INJECTOR",
-    "hwid": "6FE3B0C34A7381DF92E5B850A35064F4",
-    "frozen": false
   }
 ]
