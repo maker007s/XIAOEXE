@@ -150,13 +150,5 @@
     "subscription": "INJECTOR",
     "hwid": "6FE3B0C34A7381DF92E5B850A35064F4",
     "frozen": false
-  },
-  {
-    "username": "masudd",
-    "password": "0",
-    "expiry": "2026-08-08",
-    "subscription": "PREMIUM PANEL",
-    "hwid": "862FEE16353C5A0580E9ADCE8A9683F0",
-    "frozen": false
   }
 ]
