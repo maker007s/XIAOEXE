@@ -142,13 +142,5 @@
     "subscription": "INJECTOR",
     "hwid": "C905F9CB9ADF67CAC964B638424C9702",
     "frozen": false
-  },
-  {
-    "username": "1",
-    "password": "1",
-    "expiry": "2026-07-16",
-    "subscription": "PYTHON AIMBOT",
-    "hwid": "",
-    "frozen": false
   }
 ]
