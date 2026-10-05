@@ -88,14 +88,6 @@
     "frozen": false
   },
   {
-    "username": "1",
-    "password": "1",
-    "expiry": "2090-07-16",
-    "subscription": "FREEZE",
-    "hwid": "FB09AC52B7FB9CFE4502C370461003DB",
-    "frozen": false
-  },
-  {
     "username": "2",
     "password": "2",
     "expiry": "2090-07-19",
