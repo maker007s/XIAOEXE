@@ -1,21 +1,5 @@
 [
   {
-    "username": "1",
-    "password": "1",
-    "expiry": "2090-11-20",
-    "subscription": "FREEZE",
-    "hwid": "",
-    "frozen": false
-  },
-  {
-    "username": "2",
-    "password": "2",
-    "expiry": "2090-11-20",
-    "subscription": "FREEZE",
-    "hwid": "",
-    "frozen": false
-  },
-  {
     "username": "a",
     "password": "a",
     "expiry": "2090-11-20",
